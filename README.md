@@ -9,3 +9,5 @@ Curso de **Git** e **Git Hub** do *Hora de Codar*.
 * Criar documentos com **Markdown**
 * Criar e compartilhar **gists**
 * Fluxo completo de versão de um projeto (Code Review, Pull Request, Issues e etc.)
+
+![Curso Git](img/curso-git-hora-de-codar.png)
