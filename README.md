@@ -2,6 +2,10 @@
 
 Curso de **Git** e **Git Hub** do *Hora de Codar*.
 
-## Nesse curso aprendi a:
+## Nesse curso aprendi:
 
-* Usar comandos básicos e avançados do **Git**
+* Comandos básicos e avançados **Git**
+* Gerenciar repositórios locais e em servidores com o **GitHub**
+* Criar documentos com **Markdown**
+* Criar e compartilhar **gists**
+* Fluxo completo de versão de um projeto (Code Review, Pull Request, Issues e etc.)
