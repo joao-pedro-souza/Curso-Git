@@ -1,19 +1,13 @@
 # Curso-Git
 
-Curso de **Git** e **Git Hub** do *[Hora de Codar](https://horadecodar.com.br/)*
+Curso de **Git** e **Git Hub** do *Hora de Codar*.
 
 ## Nesse curso aprendi:
 
-* Comandos básicos e avançados **Git**
-* Gerenciar repositórios locais e em servidores com o **GitHub**
+* Usar comandos básicos e avançados do **Git**
+* Gerenciar repositórios locais e também em servidores externos como no **GitHub**
+* Fluxo completo de controle de versão de um projeto (Code Review, Pull Request, Issues e etc.)
+* Utilizar o **Git** e **GitHub** de modo correto como no dia a dia de um *desenvolvedor de software*
 * Criar documentos com **Markdown**
 * Criar e compartilhar **gists**
-* Fluxo completo de versão de um projeto (Code Review, Pull Request, Issues e etc.)
-
-```python
-print('Hello, Git!)
-```
-
-![Curso Git](img/curso-git-hora-de-codar.png)
-![Logo Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
-![Logo GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)
+* Criar um portfólio com o **GitHub Pages**
