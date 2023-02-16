@@ -1,6 +1,6 @@
 # Curso-Git
 
-Curso de **Git** e **Git Hub** do [Hora de Codar](htpps://horadecodar.com.br)
+Curso de **Git** e **Git Hub** do *[Hora de Codar](https://horadecodar.com.br/)*
 
 ## Nesse curso aprendi:
 
