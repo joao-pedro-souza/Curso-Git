@@ -11,3 +11,4 @@ Curso de **Git** e **Git Hub** do *Hora de Codar*.
 * Fluxo completo de versão de um projeto (Code Review, Pull Request, Issues e etc.)
 
 ![Curso Git](img/curso-git-hora-de-codar.png)
+![Logo Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
